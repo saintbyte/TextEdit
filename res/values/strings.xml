@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextEdit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new1">Новый</string>
+    <string name="save">сохранить</string>
+    <string name="open">Открыть</string>
+    <string name="exit">Выйти</string>
+    <string name="title_activity_filelist">FilelistActivity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_selectname">SelectnameActivity</string>
+    <string name="enter_filename">Имя Файла</string>
+
+</resources>
